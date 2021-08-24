@@ -103,12 +103,6 @@ dist
 # TernJS port file
 .tern-port
 
-#  Microforntends
-app0/node_modules/
-app1/node_modules/
-app2/node_modules/
-app3/node_modules/
-app-iframe/node_modules/
-auth/node_modules/
-navbar/node_modules/
-root-ts-layout/node_modules/
+# Microfronts
+/app1/node/modules
+

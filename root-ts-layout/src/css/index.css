@@ -1,0 +1,9 @@
+.base-theme {
+    color: green;
+}
+
+:root {
+    color: darkmagenta;
+    background-color: yellow !important;
+    margin-top: 10px;
+}
